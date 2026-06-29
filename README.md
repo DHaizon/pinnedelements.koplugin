@@ -15,7 +15,7 @@ Designed with **multitasking** in mind — ideal for comparing passages across d
 - **Pin text** — select any passage and pin it from the highlight menu with *Pin text*.
 - **Pin the current page** — saves a thumbnail screenshot of the visible page.
 - **Pin images** — any image opened in KOReader's image viewer gets a *Pin* button; tap it to save the image to your pin list.
-- **Pin cropped screenshots** — integrates with [imagecrop.koplugin](#integration-with-imagecropkoplugin) to let you select a region of a page or image and pin only that crop.
+- **Pin cropped screenshots** — integrates with [imagecrop.koplugin](https://github.com/DHaizon/imagecrop.koplugin) to let you select a region of a page or image and pin only that crop.
 - **Pinned Elements popup** — a scrollable, paginated list showing all pins for the current book, each with a thumbnail (for image/page pins) and a label.
 - **Sort pins** — sort by page number or by creation order from the popup's menu.
 - **Full-screen image viewer** — tap any pinned image to open a dedicated viewer with pan, zoom (pinch/spread or page-turn keys), and rotate. Navigate between pinned images with prev/next arrows.
@@ -29,7 +29,7 @@ Designed with **multitasking** in mind — ideal for comparing passages across d
 
 ## Integration with imagecrop.koplugin
 
-When [imagecrop.koplugin](https://github.com/your-username/imagecrop.koplugin) is also installed, the image viewer gains a **Crop** button alongside the standard **Pin** button. This lets you:
+When [imagecrop.koplugin](https://github.com/DHaizon/imagecrop.koplugin) is also installed, the image viewer gains a **Crop** button alongside the standard **Pin** button. This lets you:
 
 1. Open any image or screenshot in the image viewer.
 2. Tap **Crop** to enter two-tap crop mode — first tap sets the top-left corner, second sets the bottom-right.
